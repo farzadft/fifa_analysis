@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[383]:
-
 
 import pandas as pd
 data= pd.read_csv('data.csv')
